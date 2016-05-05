@@ -1,0 +1,6 @@
+{
+  "name": "Abstract",
+  "tagline": "A DSL Oriented Programming Language",
+  "body": "# Abstract is currently under rapid development.\r\n\r\nFor now, see the spec at https://github.com/AbstractLang/Spec.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
